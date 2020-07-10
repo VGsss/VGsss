@@ -4,7 +4,7 @@ Olá, sou o Rafael, trabalho atualmente com desenvolvimento .NET.
 Sou formado em **Análise e Desenvolvimento de Sistemas** pela [FATEC](https://fatecsjc-prd.azurewebsites.net/), tenho técnico em Programação de Jogos Digitais e Técnico em Informática pela [ETEP](http://www.etep.edu.br/).
 Tenho aproximadamente 3 anos de experiência em desenvolvimento C# e sou apaixonado pelo Stack da Microsoft.
 
-Além de programar eu também jogo airsoft, adoro aprender e práticar eletrônica, ler sobre assuntos diversos, arrumar meus fones que sem estragam e [jogar.](https://steamcommunity.com/id/vgsss)
+Além de programar eu também jogo airsoft, adoro aprender e práticar eletrônica, ler sobre assuntos diversos, arrumar meus fones que sempre estragam e [jogar.](https://steamcommunity.com/id/vgsss)
 
 Meus outros perfis:
 

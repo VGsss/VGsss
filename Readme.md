@@ -15,7 +15,3 @@ Meus outros perfis:
 <a id="botaoLinkedin" href="https://www.linkedin.com/in/vgsss/" target="_blank"  class="rede-Social-Icone md-auto">
 	<img align="left" src="https://github.com/VGsss/VGsss/blob/master/images/LogoLinkedin.png" alt="Logo Linkedin">
 </a>
-
-<a id="botaoGithub" href="https://github.com/VGsss" target="_blank"  class="rede-Social-Icone md-auto">
-	<img align="left" src="https://github.com/VGsss/VGsss/blob/master/images/LogoGitHub.png" alt="Logo GitHub">
-</a>

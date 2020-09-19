@@ -15,3 +15,5 @@ Meus outros perfis:
 <a id="botaoLinkedin" href="https://www.linkedin.com/in/vgsss/" target="_blank"  class="rede-Social-Icone md-auto">
 	<img align="left" src="https://github.com/VGsss/VGsss/blob/master/images/LogoLinkedin.png" alt="Logo Linkedin">
 </a>
+
+<a href="https://stackoverflow.com/users/2356723/vgs"><img src="https://stackoverflow.com/users/flair/2356723.png" width="208" height="58" alt="profile for VGs at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for VGs at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
